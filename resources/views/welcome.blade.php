@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Laravel - Instancia 1 online
                 </div>
 
                 <div class="links">
